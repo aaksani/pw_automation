@@ -6,17 +6,13 @@ UI automation tests with Playwright + TypeScript + Fixtures + POM
 
 ### Install
 
-\`\`\`bash
 npm install
 npx playwright install
-\`\`\`
 
 ### Run tests
 
-\`\`\`bash
 npx playwright test
 npx playwright test --headed
-\`\`\`
 
 ### Project structure
 
